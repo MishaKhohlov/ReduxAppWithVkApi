@@ -1,0 +1,40 @@
+{
+  "name": "redux_app",
+  "version": "1.0.0",
+  "description": "My test app with redux and vk api",
+  "main": "index.html",
+  "dependencies": {
+    "babel-polyfill": "^6.22.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "babel-core": "6.13.2",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-es2016": "^6.16.0",
+    "babel-preset-es2017": "^6.16.0",
+    "babel-preset-react": "latest",
+    "css-loader": "^0.26.1",
+    "extract-text-webpack-plugin": "latest",
+    "resolve-url-loader": "^1.6.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-middleware": "^1.10.0",
+    "webpack-dev-server": "^1.16.2",
+    "webpack-hot-middleware": "^2.16.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MishaKhohlov/ReduxAppWithVkApi.git"
+  },
+  "author": "MishaKhohlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MishaKhohlov/ReduxAppWithVkApi/issues"
+  },
+  "homepage": "https://github.com/MishaKhohlov/ReduxAppWithVkApi#readme"
+}
